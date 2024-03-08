@@ -7,6 +7,10 @@ public class Main {
          filmato.abbassaVolume();
          filmato.alzaLuminosità();
          filmato.play();
+         Immagine foto = new Immagine("immagine.img",5);
+         foto.alzaLuminosità();
+         foto.show();
+
 
 
 
